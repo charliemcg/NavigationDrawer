@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="title_activity_two">ActivityTwo</string>
+    <string name="title_activity_three">ActivityThree</string>
+</resources>
